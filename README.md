@@ -47,8 +47,8 @@ This project is suitable for beginners learning C.
 ## Output Screenshot
 
 ### Sample Outputs
-<img width="329" height="89" src="https://github.com/Kesh4vKMul3y-UI/Keshav-K-Muley---10665/blob/217cfb053a2ce9c9cb900941b1de2f5320980bf5/Output%20-%201.png" />
-<img width="329" height="89" src="https://github.com/Kesh4vKMul3y-UI/Keshav-K-Muley---10665/blob/21d753eed48c8e9f2a0e1ad82bcdaba467af8e06/Output%20-%202.png" />
+<img width="250" height="120" src="https://github.com/Kesh4vKMul3y-UI/Keshav-K-Muley---10665/blob/217cfb053a2ce9c9cb900941b1de2f5320980bf5/Output%20-%201.png" />
+<img width="250" height="120" src="https://github.com/Kesh4vKMul3y-UI/Keshav-K-Muley---10665/blob/21d753eed48c8e9f2a0e1ad82bcdaba467af8e06/Output%20-%202.png" />
 ---
 
 ## What I Learned from This Project
