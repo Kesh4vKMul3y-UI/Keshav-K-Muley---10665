@@ -47,10 +47,8 @@ This project is suitable for beginners learning C.
 ## Output Screenshot
 
 ### Sample Outputs
-<img width="320" height="90" src="https://github.com/user-attachments/assets/84150561-f9df-4ae3-8446-304a068b78ba" />
-<img width="320" height="90" src="https://github.com/user-attachments/assets/2e04da1f-c5aa-498f-a76b-fa67ca967f5c" />
-<img width="320" height="90" src="https://github.com/user-attachments/assets/199c7f50-28b4-4111-bdff-052ed7732626" />
-
+<img width="320" height="90" src="C:\Users\Keshav\Pictures\Screenshots\Output - 1.png" />
+<img width="320" height="90" src="C:\Users\Keshav\Pictures\Screenshots\Output - 2.png" />
 ---
 
 ## What I Learned from This Project
