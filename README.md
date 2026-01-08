@@ -1,7 +1,7 @@
-# Guess with hints
+# Guess With Hints
 
 ## Project Title
-Guess with hints
+Number Guessing Game
 
 ## Student Details
 - **Name:** Keshav K Muley
