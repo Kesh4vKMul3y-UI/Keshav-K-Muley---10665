@@ -16,10 +16,10 @@ The program stores a fixed secret number and allows the user a limited number of
 
 ## Why This Project Was Created
 This project was created to:
-•	Practice basic C programming concepts
-•	Understand loops and conditional statements
-•	Learn how to take user input using scanf
-•	Improve logical thinking and problem-solving skills
+-	Practice basic C programming concepts
+-	Understand loops and conditional statements
+-	Learn how to take user input using scanf
+-	Improve logical thinking and problem-solving skills
 
 This project is suitable for beginners learning C.
 
