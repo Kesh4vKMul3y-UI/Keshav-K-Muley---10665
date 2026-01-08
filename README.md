@@ -27,20 +27,20 @@ This project is suitable for beginners learning C.
 
 ## Utility of the Project
 
-•	Helps beginners understand program flow
-•	Demonstrates user interaction in C
-•	Useful as a mini-project for college or practice
-•	Strengthens logic-building skills
+-	Helps beginners understand program flow
+-	Demonstrates user interaction in C
+-	Useful as a mini-project for college or practice
+-	Strengthens logic-building skills
 
 ---
 
 ## Future Scope
 
-•	Using a random number instead of a fixed number
-•	Adding difficulty levels
-•	Adding a score system
-•	Allowing the user to restart the game
-•	Creating a GUI-based version
+-	Using a random number instead of a fixed number
+-	Adding difficulty levels
+-	Adding a score system
+-	Allowing the user to restart the game
+-	Creating a GUI-based version
 
 ---
 
@@ -53,12 +53,12 @@ This project is suitable for beginners learning C.
 
 ## What I Learned from This Project
 
-•	How to use variables in C
-•	How to use loops (for loop)
-•	How to apply if-else conditions
-•	How to take input using scanf
-•	How to compile and run C programs using GCC
-•	How to upload a project to GitHub with a README file
+-	How to use variables in C
+-	How to use loops (for loop)
+-	How to apply if-else conditions
+-	How to take input using scanf
+-	How to compile and run C programs using GCC
+-	How to upload a project to GitHub with a README file
 
 
 Technologies Used
